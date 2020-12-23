@@ -1,4 +1,5 @@
 package com.blakekhan.adventofcode2020
+package day1
 
 import scala.io.Source
 
